@@ -1,0 +1,41 @@
+/* CSS Document */
+
+@font-face {
+	font-family:'Segoe UI Historic';
+	src:url('C:\Windows\Fonts\Segoe UI Historic.ttf');
+}
+
+
+
+
+* {font-family: Segoe UI Historic}
+
+body {background-color: #ADE8E0}
+
+h1 {
+
+	
+background-color: darkgrey;
+font-size: 400%;
+}
+
+p>a:hover{
+	background-color: white
+}
+
+p>a {
+	
+	font-size: 160%;
+	font-weight: bold;
+	word-spacing: 0.75em;
+	text-decoration: none;
+	
+}
+
+h2 {
+	font-size: 200%;
+	
+}
+
+
+
